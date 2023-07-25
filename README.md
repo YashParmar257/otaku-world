@@ -4,5 +4,5 @@ Project for Otaku World application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is for Otaku World app.
 
