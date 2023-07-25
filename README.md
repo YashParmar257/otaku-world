@@ -1,6 +1,6 @@
 # otaku_world
 
-Project for Otaku World application.
+This is Project for Otaku World app.
 
 ## Getting Started
 
